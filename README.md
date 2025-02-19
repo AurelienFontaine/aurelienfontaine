@@ -1,12 +1,21 @@
 <h1 align="center">Hello, welcome to my Github, I'm Aurelien Fontaine</h1>
-<h3 align="center">Actualy student at 42_Paris, I've got a Bachelor in Mathematics at Sorbonne Universite</h3>
+<h3 align="center">Actualy student at 42_Paris, I've got a Bachelor in Mathematics at Sorbonne Universite</h3>  <br>
 
--  I’m currently working on [Inception](https://github.com/AurelienFontaine/CPP)
+<br>
 
--  I’m currently learning **C++, Dockers, a bit about WebDev, inproving my Python's skills to work on AI, LLM's... and as well as improving all my knowings about code**
+- Currently working on [Inception](https://github.com/AurelienFontaine/CPP) project.
 
-<h3 align="center">Languages and Tools:</h3>
+-  I’m currently learning **C++**, **Dockers**, a bit about **WebDev**, inproving my **Python's** skills to work on **AI, LLM's**... and as well as improving all my knowings about code**
+<br>
 
+<div align="center">
+  <span style="text-decoration: underline;">Languages and Tools:</span>
+  <br>
+   --------------------------------------------------------------------------
+</div>
+
+<br>
+<br>
 <div align="center">
   <!-- Ligne du haut avec C, C++ et Python en plus grand -->
   <p>
@@ -48,8 +57,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css" width="50" height="50"/> 
     </a> 
   </p>
+  <br>
+  --------------------------------------------------------------------------
 </div>
-
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" height="195px" />
