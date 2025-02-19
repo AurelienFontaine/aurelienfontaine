@@ -2,7 +2,7 @@
 <h3 align="center">Currently a student at 42_Paris, with a Bachelor in Mathematics from Sorbonne Université</h3>  
 <br>
 
-- 🚀 Currently working on the [Inception](https://github.com/AurelienFontaine/Inception) project.
+- 🚀 Actually working on the [Inception](https://github.com/AurelienFontaine/Inception) project.
 - 🌟 I’m currently learning **C++**, **Docker**, a bit of **Web Development**, improving my **Python** skills to work on **AI, LLM's**, and enhancing all my programming knowledge.
 <br>
 
