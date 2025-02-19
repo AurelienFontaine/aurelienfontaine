@@ -5,7 +5,8 @@
 
 -  I’m currently learning **C++, Dockers, a bit about WebDev, inproving my Python's skills to work on AI, LLM's... and as well as improving all my knowings about code**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
+
 <div align="center">
   <!-- Ligne du haut avec C, C++ et Python en plus grand -->
   <p>
@@ -48,6 +49,7 @@
     </a> 
   </p>
 </div>
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" height="195px" />
