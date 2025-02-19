@@ -50,8 +50,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" style="vertical-align: middle;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelienFontaine&theme=dark" alt="AurelienFontaine" style="vertical-align: middle;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" height="195px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelienFontaine&theme=dark" alt="AurelienFontaine" height="195px" />
 </div>
+
 
 
