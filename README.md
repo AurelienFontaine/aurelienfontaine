@@ -49,6 +49,11 @@
   </p>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AurelienFontaine&show_icons=true&theme=dark&locale=en&layout=compact" alt="AurelienFontaine" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AurelienFontaine&theme=dark" alt="AurelienFontaine" /></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AurelienFontaine&theme=dark" alt="AurelienFontaine" />
+</div>
+
