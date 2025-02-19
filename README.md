@@ -3,7 +3,7 @@
 
 <br>
 
-- Currently working on [Inception](https://github.com/AurelienFontaine/CPP) project.
+- Currently working on the [Inception](https://github.com/AurelienFontaine/Inception) project.
 
 -  I’m currently learning **C++**, **Dockers**, a bit of **WebDev**, inproving my **Python's** skills to work on **AI, LLM's**... and as well as improving all my knowings about programming.
 <br>
