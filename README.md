@@ -57,6 +57,8 @@
 </div>
 <br>
 
+![Snake animation](https://raw.githubusercontent.com/AurelienFontaine/AurelienFontaine/output/github-contribution-grid-snake-dark.svg)
+
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
@@ -68,6 +70,6 @@
   </p>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/AurelienFontaine/AurelienFontaine/output/github-contribution-grid-snake-dark.svg)
+
 
 
