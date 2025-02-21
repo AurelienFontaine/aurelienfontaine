@@ -73,6 +73,6 @@
   <img src="https://github.com/AurelienFontaine/AurelienFontaine/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
 
-
+![Snake animation](https://raw.githubusercontent.com/{username}/AurelienFontaine/output/github-contribution-grid-snake-dark.svg)
 
 
