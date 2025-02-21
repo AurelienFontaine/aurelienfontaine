@@ -68,5 +68,11 @@
   </p>
 </div>
 
+<div align="center">
+  <h3>Watch my contribution snake:</h3>
+  <img src="https://github.com/AurelienFontaine/AurelienFontaine/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</div>
+
+
 
 
