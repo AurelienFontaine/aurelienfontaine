@@ -3,7 +3,7 @@
 <br>
 
 - 🚀 Actually working on the [Transcendance](https://github.com/AurelienFontaine/Transcendance) project.
-- 🌟 I’m currently learning **C++**, **Docker**, **Web Development**, improving my **Python** skills to work on **AI and DATA**, and enhancing all my programming knowledge.
+- 🌟 I’m currently learning **C++**, **C**, **Docker**, **Web Development**, improving my **Python** skills to work on **AI and DATA**, and enhancing all my programming knowledge.
 <br>
 
 <div align="center">
