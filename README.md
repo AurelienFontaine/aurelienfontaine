@@ -2,7 +2,7 @@
 <h3 align="center">Currently a student at 42_Paris, after doing a Bachelor in Mathematics at Sorbonne Université (Paris VI) </h3>  
 <br>
 
-- 🚀 Actually working on the [Transcendance](https://github.com/AurelienFontaine/Transcendance) project.
+- 🚀 Actually working on the [Computerv1](https://github.com/AurelienFontaine/Computerv1) project.
 - 🌟 I’m currently learning **C++**, **C**, **Docker**, **Web Development**, improving my **Python** skills to work on **AI and DATA**, and enhancing all my programming knowledge.
 <br>
 
